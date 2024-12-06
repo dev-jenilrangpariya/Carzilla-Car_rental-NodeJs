@@ -25,4 +25,4 @@
     - For admin penal,
         - http://localhost:3000/admin
 
-![alttext](DEMO.mp4)
+![alttext](/DEMO.mp4)
